@@ -5,3 +5,4 @@ artifacts/
 data/
 vectors*.json
 .DS_Store
+.postqode/
